@@ -1,6 +1,6 @@
 # Laravel 12 Breeze Starter Kit with Vue.js, Roles & Email 2FA
 
-<div align="center">
+<div>
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="50">
   <img src="https://vuejs.org/logo.svg" alt="Vue.js" width="50" height="50">
   <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS" width="50" height="50">
