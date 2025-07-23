@@ -67,7 +67,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laravel-breeze-starter-kit.git
+git clone https://github.com/AkashNethmina/laravel-breeze-starter-kit.git
 cd laravel-breeze-starter-kit
 ```
 
