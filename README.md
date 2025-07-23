@@ -3,7 +3,7 @@
 <div>
   <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="50" height="50">
   <img src="https://vuejs.org/logo.svg" alt="Vue.js" width="50" height="50">
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="Tailwind CSS" width="50" height="50">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50">
 </div>
 
 <h3 >🚀 Production-Ready Authentication Starter Kit</h3>
@@ -54,10 +54,9 @@
 
 ## 📋 Requirements
 
-- PHP 8.2+
+- PHP 8.4+
 - Composer
-- Node.js 18+
-- MySQL/PostgreSQL/SQLite
+- MySQL/SQLite
 - SMTP Email Service
 
 ---
@@ -401,7 +400,6 @@ CMD ["php", "artisan", "serve", "--host=0.0.0.0"]
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a></p>
+  <p>Made with ❤️ by <a href="https://github.com/AkashNethmina">Akash Nethmina</a></p>
   <p>⭐ Star this repo if you find it helpful!</p>
 </div>
->>>>>>> bc36cd0d54a10b555d1505db4167d2c1f6e85345
