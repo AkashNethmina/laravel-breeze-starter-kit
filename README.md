@@ -12,7 +12,7 @@
   A comprehensive Laravel 12 starter kit featuring role-based authentication, email verification, and two-factor authentication via email using Laravel Breeze and Vue.js.
 </p>
 
-<p align="center">
+<p>
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
